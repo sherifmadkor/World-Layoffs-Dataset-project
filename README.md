@@ -1,7 +1,3 @@
-Absolutely! Here's the revised README file with added emojis for visual appeal and the "Business Questions Answered" section to clarify the project's analytical focus:
-
----
-
 # World Layoffs Dataset Project 🌍
 ## About
 This GitHub repository presents an in-depth analysis of global layoffs, leveraging the "World Layoffs Dataset" 📊 to uncover trends and impacts across various industries and regions. The project focuses on extracting meaningful insights from data that includes company-specific layoffs, dates, industries affected, and financial contexts.
